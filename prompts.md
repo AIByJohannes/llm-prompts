@@ -36,4 +36,4 @@ Persona: Be a professional news reporter.
 Format: Provide the summary in three bullet points.
 ```
 
-These templates break down the essential parts of a prompt, helping you craft clear and effective instructions for AI【6†source】【7†source】.
+These templates break down the essential parts of a prompt, helping you craft clear and effective instructions for AI.
